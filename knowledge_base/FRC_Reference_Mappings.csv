@@ -1,0 +1,7 @@
+
+mapping_type,source_value,approved_value,description,status,document_id
+STATUS,ACTIVE,ACTIVE,Component is active,DEMO_APPROVED,FRC-MAP-001
+STATUS,INACTIVE,INACTIVE,Component is inactive,DEMO_APPROVED,FRC-MAP-001
+COUNTRY_CODE,AE,AE,United Arab Emirates,DEMO_APPROVED,FRC-MAP-001
+COUNTRY_CODE,GB,GB,United Kingdom,DEMO_APPROVED,FRC-MAP-001
+COUNTRY_CODE,US,US,United States,DEMO_APPROVED,FRC-MAP-001
